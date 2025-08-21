@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="images/logo.svg" alt="INTISMART Logo" width="300"/>
+</div>
+
+<div align="center">
+  <img src="images/banner.svg" alt="INTISMART Banner" width="100%"/>
+</div>
+
 # INTISMART
 
 ## ¿Quiénes somos?
@@ -6,13 +14,19 @@
 
 ## Misión
 
+<img src="images/mission-icon.svg" alt="Misión" width="60" align="left" style="margin-right: 10px;"/>
+
 Ofrecer servicios integrales en salud ambiental y gestión del riesgo de desastre, protegiendo la vida, el ambiente y la economía, promoviendo la sostenibilidad y resiliencia de comunidades y organizaciones.
 
 ## Visión
 
+<img src="images/vision-icon.svg" alt="Visión" width="60" align="left" style="margin-right: 10px;"/>
+
 Ser la empresa líder en Perú en gestión del riesgo de desastre y salud ambiental, reconocida por su compromiso con la protección sostenible de personas, ecosistemas y empresas.
 
 ## ¿Qué hacemos?
+
+<img src="images/services-icon.svg" alt="Servicios" width="60" align="left" style="margin-right: 10px;"/>
 
 - Brindamos soluciones innovadoras para la gestión ambiental y el riesgo de desastre.
 - Desarrollamos estrategias para proteger la vida, el ambiente y la economía.
@@ -26,8 +40,12 @@ Ser la empresa líder en Perú en gestión del riesgo de desastre y salud ambien
 
 ## Equipo
 
+<div align="center">
+  <img src="images/team.svg" alt="Nuestro Equipo" width="400"/>
+</div>
+
 Contamos con profesionales especializados en áreas como desarrollo tecnológico, operaciones, finanzas, marketing, ventas, investigación y manufactura, todos dedicados a la máxima calidad y a la innovación continua.
 
 ---
 
-**INTISMART-WEB** es el sitio oficial de la empresa, donde podrás conocer más sobre nuestros servicios, equipo y
+**INTISMART-WEB** es el sitio oficial de la empresa, donde podrás conocer más sobre nuestros servicios, equipo y proyectos innovadores en gestión ambiental y riesgo de desastre.
