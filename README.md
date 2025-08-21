@@ -1,4 +1,4 @@
-# INTISMART-WEB
+# INTISMART
 
 ## ¿Quiénes somos?
 
